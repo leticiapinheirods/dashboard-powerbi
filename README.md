@@ -6,13 +6,22 @@ O projeto utiliza um conjunto de dados disponibilizados pela Policia Rodoviária
 
 ## Visualizações
 1. Capa para apresentação do projeto
+<div align="center">
+  <img src="pré-visualização/capa.png" alt="capa" width="800">
+</div>
 
 2. Página de análise com insights
+<div align="center">
+  <img src="pré-visualização/pagina_analise.png" alt="pagina_analise" width="800">
+</div>
 
 ## Começando
 ### Pré-requisitos:
 - Necessário fazer o [download](https://www.microsoft.com/pt-br/power-platform/products/power-bi/downloads) do Power BI Desktop
 
 ### Instalação
-1. Clone esse repositório:
-2. Abra o arquivo no Power BI
+1. Clone esse repositório no seu terminal:
+```
+git clone https://github.com/leticiapinheirods/dashboard-powerbi.git
+```
+2. Abra o arquivo `dashboard - analise de acidentes de trânsito 1º tri 2024.pbix` no Power BI
