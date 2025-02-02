@@ -1,5 +1,5 @@
 # Análise com Power BI
-Este projeto contém um dashboard feito com Power BI para análise de acidentes de trânsito no primeiro trimestre de 2024 no Brasil, desenvolvido a partir de uma atividade prática do _curso online gratuito de Power BI 2024 do Professor Ítalo Teotônio_
+Este projeto contém um dashboard feito com Power BI para realizar uma análise dos acidentes de trânsito no primeiro trimestre de 2024 no Brasil, desenvolvido após o fim do _curso online gratuito de Power BI 2024 do Professor Ítalo Teotônio_ como uma atividade prática
 
 ## Base de dados
 O projeto utiliza um conjunto de dados disponibilizados pela Policia Rodoviária Federal, denominado por [Documento CSV de Acidentes 2024 (Agrupados por ocorrência)](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
