@@ -1,4 +1,4 @@
-# Análise com Power BI
+# 📊 Análise com Power BI
 Este projeto contém um dashboard feito com Power BI para realizar uma análise dos acidentes de trânsito no primeiro trimestre de 2024 no Brasil, desenvolvido após o fim do _curso online gratuito de Power BI 2024 do Professor Ítalo Teotônio_ como uma atividade prática
 
 ## Base de dados
